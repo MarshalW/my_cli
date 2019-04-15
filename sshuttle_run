@@ -1,0 +1,2 @@
+#!/bin/bash
+sshuttle --dns -r ssr 0.0.0.0/0 -v
